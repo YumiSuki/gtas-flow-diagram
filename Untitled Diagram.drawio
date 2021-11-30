@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T04:45:35.887Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4710.4 Safari/537.36" etag="tFRsS2EtcAsJA59Tbfk_" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T04:47:25.312Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4710.4 Safari/537.36" etag="a3yB4deI_efLLI1SdDKi" version="15.8.7" type="github">
   <diagram id="6lpIZf49RWjNjYteVWTj" name="Page-1">
     <mxGraphModel dx="2272" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="-10" y="20" width="127.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eB1y9XzGJmH_I-JKS54s-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png;" vertex="1" parent="1">
-          <mxGeometry x="962.1600000000001" y="480" width="118.86" height="40" as="geometry" />
+          <mxGeometry x="957.1300000000001" y="490" width="118.86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eB1y9XzGJmH_I-JKS54s-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cleo.com/sites/default/files/2018-10/logo_ibm-mq_module-11.png;" vertex="1" parent="1">
           <mxGeometry x="-243.44" width="146.88" height="87" as="geometry" />
@@ -128,6 +128,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="250" as="sourcePoint" />
             <mxPoint x="-30" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eB1y9XzGJmH_I-JKS54s-34" value="Reverse Proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eB1y9XzGJmH_I-JKS54s-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eB1y9XzGJmH_I-JKS54s-4" target="3Hz_xQ96xvLKW2dNAy2B-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
